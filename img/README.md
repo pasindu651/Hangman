@@ -1,1 +1,1 @@
-<br>**Hangman graphics:** Duke Intraprasert on E-Learning Heroes
+**Hangman graphics:** Duke Intraprasert on E-Learning Heroes
