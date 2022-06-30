@@ -1,2 +1,2 @@
 # Hangman-Game
-A final project created for ICS2O course.
+A Hangman game created as a final project for ICS2O course.
